@@ -1,0 +1,29 @@
+h3 {
+  color: blue;
+}
+
+#me{
+  margin-top: 50px;
+	margin-left: 5px;
+	height:250px;
+	width:250px;
+}
+
+#illustration{
+  margin-left: 300px;
+	height:100px;
+	width:100px;
+}
+
+#type{
+  margin-left: inherit;
+  height: 300px;
+  width: 300px;
+}
+
+
+#cake{
+  margin-left: 200px;
+  height: 300px;
+  width: 300px;
+}
