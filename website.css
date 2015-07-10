@@ -4,26 +4,38 @@ h3 {
 
 #me{
   margin-top: 50px;
-	margin-left: 5px;
-	height:250px;
-	width:250px;
+	margin-right: 5px;
+  float: bottom-right;
+}
+
+img #me {
+  width: 200px;
+  height: 200px;
 }
 
 #illustration{
-  margin-left: 300px;
-	height:100px;
-	width:100px;
+  float: right;
+  margin: 50px;
+}
+img #illustration {
+  width: 100px;
+  height: 100px;
 }
 
 #type{
-  margin-left: inherit;
-  height: 300px;
-  width: 300px;
+  margin: 50px;
+  float: right;
+}
+img #type {
+  width: 150px;
+  height: 1500px;
 }
 
-
 #cake{
-  margin-left: 200px;
-  height: 300px;
-  width: 300px;
+  margin: 50px;
+  float: center-right;
+}
+img #cake {
+  width: 100px;
+  height: 100px;
 }
