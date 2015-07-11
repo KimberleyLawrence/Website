@@ -1,16 +1,17 @@
 h3 {
   color: blue;
+  float: bottom-left;
 }
 
 #me{
   margin-top: 50px;
 	margin-right: 5px;
-  float: bottom-right;
+  float: right;
 }
 
 img #me {
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
 
 #illustration{
@@ -27,8 +28,8 @@ img #illustration {
   float: right;
 }
 img #type {
-  width: 150px;
-  height: 1500px;
+  width: 100px;
+  height: 100px;
 }
 
 #cake{
