@@ -2,21 +2,29 @@ h3 {
   color: blue;
   float: bottom-left;
 }
-
+div{
+  border:solid black;
+}
+/*
 #me{
   margin-top: 50px;
 	margin-right: 5px;
   float: right;
+  position: relative;
+
 }
 
 img #me {
   width: 100px;
   height: 100px;
+  clear: bottom;
 }
 
 #illustration{
   float: right;
   margin: 50px;
+  clear: right;
+  position: relative;
 }
 img #illustration {
   width: 100px;
@@ -25,8 +33,10 @@ img #illustration {
 
 #type{
   margin: 50px;
-  float: right;
+  float: center;
+  position:relative;
 }
+
 img #type {
   width: 100px;
   height: 100px;
@@ -35,8 +45,10 @@ img #type {
 #cake{
   margin: 50px;
   float: center-right;
+  position:relative;
 }
 img #cake {
   width: 100px;
   height: 100px;
 }
+*/
