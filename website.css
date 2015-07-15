@@ -1,13 +1,21 @@
-h3 {
-  color: blue;
-  float: bottom-left;
-}
-div{
+
+/*div{
   border:solid black;
-}
+} */
 html{
-  background-color: #dadbdd;
+  background-color: #bcbdc1;
 }
+
+#100_circle {
+  width: 100px;
+  height: 100px;
+}
+
+#red_circle {
+  background-color: red;
+}
+
+/* class="100_circle red_circle" */
 
 #red_circle{
   height: 100px;
@@ -24,8 +32,8 @@ html{
   border-color: red solid;
 }
 #yellow_circle{
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
   background-color: yellow;
   border-radius: 100%;
   border-color: yellow solid;
@@ -38,8 +46,8 @@ html{
   border-color: red solid;
 }
 #green_circle{
-  height: 150px;
-  width: 150px;
+  height: 100px;
+  width: 100px;
   background-color: green;
   border-radius: 100%;
   border-color: red solid;
@@ -62,6 +70,37 @@ html{
   height: 75px;
   width: 75px;
   background-color: brown;
+  border-radius: 100%;
+  border-color: red solid;
+}
+
+#teal_circle{
+  height: 30px;
+  width: 30px;
+  background-color: teal;
+  border-radius: 100%;
+  border-color: red solid;
+}
+
+#black_circle{
+  height: 70px;
+  width: 70px;
+  background-color: black;
+  border-radius: 100%;
+  border-color: red solid;
+}
+
+#violet_circle{
+  height: 70px;
+  width: 70px;
+  background-color: violet;
+  border-radius: 100%;
+  border-color: red solid;
+}
+#hot_pink_circle{
+  height: 50px;
+  width: 50px;
+  background-color: hotpink;
   border-radius: 100%;
   border-color: red solid;
 }
@@ -90,50 +129,15 @@ html{
   border-radius: 100%;
   border: solid black 1px;
 }
-/*
-#me{
-  margin-top: 50px;
-	margin-right: 5px;
-  float: right;
-  position: relative;
-
+#web{
+  height:180px;
+  width:180px;
+  border-radius: 100%;
+  border: solid black 1px;
 }
 
-img #me {
-  width: 100px;
-  height: 100px;
-  clear: bottom;
+h3{
+  font-family: ThrowMyHandsUpInTheAir;
+  color: black;
+  font-size: 50px;
 }
-
-#illustration{
-  float: right;
-  margin: 50px;
-  clear: right;
-  position: relative;
-}
-img #illustration {
-  width: 100px;
-  height: 100px;
-}
-
-#type{
-  margin: 50px;
-  float: center;
-  position:relative;
-}
-
-img #type {
-  width: 100px;
-  height: 100px;
-}
-
-#cake{
-  margin: 50px;
-  float: center-right;
-  position:relative;
-}
-img #cake {
-  width: 100px;
-  height: 100px;
-}
-*/
