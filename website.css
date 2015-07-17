@@ -2,8 +2,15 @@
 div{
   border:solid black;
 }
-html{
-  background-color: #bcbdc1;
+
+body{
+  background-color: #dadbdd;
+}
+
+.bottom{
+  float: none;
+  display: table-cell;
+  vertical-align: bottom;
 }
 
 .circle_xl {
@@ -31,10 +38,16 @@ html{
   height: 40px;
   border-radius: 100%;
 }
+.circle_xxs{
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+}
+
 
 
 .pink_circle{
-    background-color: pink;
+  background-color: pink;
 }
 
 
@@ -49,12 +62,8 @@ html{
   background-color: blue;
 
 }
-#yellow_circle{
-  height: 80px;
-  width: 80px;
+.yellow_circle{
   background-color: yellow;
-  border-radius: 100%;
-  border-color: yellow solid;
 }
 .orange_circle{
   background-color: orange;
@@ -70,31 +79,19 @@ html{
   background-color: brown;
 }
 
-#teal_circle{
-  height: 30px;
-  width: 30px;
+.teal_circle{
   background-color: teal;
-  border-radius: 100%;
-  border-color: red solid;
 }
 
 .black_circle{
   background-color: black;
 }
 
-#violet_circle{
-  height: 70px;
-  width: 70px;
+.violet_circle{
   background-color: violet;
-  border-radius: 100%;
-  border-color: red solid;
 }
-#hot_pink_circle{
-  height: 50px;
-  width: 50px;
+.hot_pink_circle{
   background-color: hotpink;
-  border-radius: 100%;
-  border-color: red solid;
 }
 
 #cake{
