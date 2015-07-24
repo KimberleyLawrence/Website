@@ -19,6 +19,10 @@ p {
   margin:1em 0;
 }
 
+#top_heading{
+  font-family:cursive;
+}
+
 .parallax-image-wrapper {
   position:fixed;
   left:0;
@@ -83,7 +87,7 @@ p {
 .gap-50 {
   height:50%;
 }
-
+/* height between the top_heading and the 2nd paragraph*/
 .gap-100 {
   height:100%;
 }
