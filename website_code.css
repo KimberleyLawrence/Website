@@ -10,6 +10,19 @@ p {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+.image{
+  width:100%;
+  position: relative;
+}
+
+h1, .para, .button {
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+}
+
+
 a {
   text-decoration: none;
 	font-family:sans-serif;
